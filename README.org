@@ -1,0 +1,10 @@
+* remote-js
+
+Run JavaScript in a browser from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/remote-js.git   |
+| commit  | 148d8a6  |
+| systems | remote-js |
+|---------+-------------------------------------------|
+
